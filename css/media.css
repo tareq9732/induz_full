@@ -1,0 +1,262 @@
+
+
+@media (max-width:1440px){
+    .icon1_content h4 {
+        margin-left: 20px;
+    }
+    .banner_bottom_left {
+        padding: 30px 0;
+    }
+    .banner_bottom_content {
+        padding: 20px 0;
+    }
+    .icon1_content h4 {
+        font-size: 20px;
+    }
+   
+    .paragrap1 p {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .paragrap2 p {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .bannerBottomContents {
+        bottom: 2%;
+    }
+
+}
+/* .................................1440 end............................................. */
+/* .................................1440 end............................................. */
+/* .................................1440 end............................................. */
+@media (max-width:1360px){
+
+}
+/* .................................1360 end............................................. */
+/* .................................1360 end............................................. */
+/* .................................1360end............................................. */
+@media (max-width:1024px){
+    .banner_contents h1 {
+        font-size: 3rem;
+    }
+    .icon1_content h4 {
+        font-size: 15px;
+    }
+    .paragrap2 p {
+        display: none;
+    }
+    .blog_img p {
+        font-size: 13px;
+    }
+}
+
+/* .................................1024 end............................................. */
+/* .................................1024 end............................................. */
+/* .................................1024 end............................................. */
+@media (max-width:768px){
+    .statas_right_content img {
+        width: 100%;
+    }
+    .statas_left_content h1 {
+        padding: 10px 0;
+        font-size: 30px;
+    }
+    .statas_left_content h3 {
+        font-size: 22px;
+    }
+    .statas_left_content p {
+        font-size: 14px;
+    }
+    .statas_middle_contents h2 {
+        font-size: 1.5rem;
+        padding: 5px 0;
+    }
+    .mt-5 {
+        margin-top: 20px !important;
+    }
+    .vlog_img_content {
+        display: flex;
+        align-items: center;
+        display: contents;
+    }
+    .vlog_img_icon1 {
+    display: flex;
+    /* justify-content: right; */
+    align-items: center;
+}
+        .vlog_img_icon1 {
+            margin: 0 !important;
+        }
+}
+
+/* .................................768 end............................................. */
+/* .................................768 end............................................. */
+/* .................................768 end............................................. */
+@media (max-width:575px){
+    .footer_contents {
+        padding: 10px 0;
+    }
+    .banner {
+        min-height: 120vh;
+        position: relative;
+    }
+    .paragrap1 p {
+        font-size: 13px;
+    }
+    .icon1 {
+        justify-content: center;
+    }
+    .banner_bottom_left {
+        padding: 12px 0;
+    }
+    .paragrap1 p {
+        padding: 10px 0;
+    }
+    .banner_bottom_content {
+        text-align: center;
+    }
+    .statas_section_content {
+        padding: 35px 0;
+    }
+    .statas_left_content {
+        text-align: center;
+    }
+    .building_contents h1 {
+        font-size: 2rem;
+    }
+    .building_contents {
+        padding: 25px 0;
+    }
+    .blog_content {
+        padding: 30px 0;
+    }
+    .blog_content h1 {
+        font-size: 2rem;
+    }
+    .blog_content h3 {
+        font-size: 1rem;
+    }
+    .building_contents h3 {
+        font-size: 1rem;
+    }
+    .form_section form {
+        display: contents;
+    }
+    .form_section form input {
+        width: 90%;
+        margin: 10px 0px;
+        background: transparent;
+    }
+    .slider_bottom_content {
+        padding: 15px 50px;
+    }
+    .slider_quate {
+        left: 45px;
+    }
+    .slider_quate2 {
+        right: 45px;
+    }
+    .slider_content {
+        padding: 30px 0;
+    }
+    .footer_section {
+        padding: 30px 0;
+    }
+    .nav-item {
+        text-align: center;
+        background-color: #000;
+        padding: 5px 0;
+    }
+
+    .vlog_img_content {
+        display: flex;
+        align-items: center;
+    }
+    .vlog_img_icon1 {
+       margin-left: 1rem !important;
+    }
+
+}
+
+/* .................................575 end............................................. */
+/* .................................575 end............................................. */
+/* .................................575 end............................................. */
+@media (max-width:425px){
+    .banner_contents h1 {
+        font-size: 2rem;
+    }
+    .banner_bottom_content h4 {
+        font-size: 1rem;
+    }
+    .banner_bottom_content {
+        padding: 15px 0;
+    }
+    .banner_bottom_left {
+        padding-top: 0;
+    }
+    .statas_left_content h3 {
+        font-size: 1rem;
+    }
+    .statas_left_content p {
+        padding-bottom: 10px;
+    }
+    
+    .slider_bottom_content p {
+        font-size: 12px;
+    }
+    .slider_bottom_content p {
+    color: #fff;
+   }
+   .slider_quate2 {
+    right: 30px;
+    }
+    
+   .slider_quate2 i{
+    font-size: 22px;
+    }
+    .slider_quate {
+        left: 30px;
+    }
+    .slider_quate i{
+        font-size: 22px;
+    }
+    .customer_img{
+        padding-top: 0;
+    }
+    .statas_middle_contents {
+        padding-bottom: 10px;
+    }
+
+}
+
+/* .................................425 end............................................. */
+/* .................................425 end............................................. */
+/* .................................425 end............................................. */
+@media (max-width:375px){
+    .statas_left_content p {
+        font-size: 13px;
+    }
+    .building_contents p {
+        font-size: 13px;
+    }
+    .building_contents h1 {
+        font-size: 1.5rem;
+    }
+    .subscribe_contents h1 {
+        font-size: 1.5rem;
+    }
+    .building_button button {
+        padding: 10px 15px;
+    }
+    .building_button{
+        text-align: center;
+    }
+}
+
+/* .................................375 end............................................. */
+/* .................................375 end............................................. */
+/* .................................375 end............................................. */
+@media (max-width:320px){
+
+}
